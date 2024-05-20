@@ -307,5 +307,6 @@ public class App
         System.out.println("Begin random walk:");
         randomTraversal(graph);
         //1-R3
+        //2-R4
     }
 }
