@@ -305,8 +305,9 @@ public class App
 //-----------------------------------------------------------------------------------
         //开始随机游走
         System.out.println("Begin random walk:");
-        randomTraversal(graph);
+        randomTraversal(graph);//2-R5
         //1-R3
+        //2-R4
     }
     //2-R7
 }
