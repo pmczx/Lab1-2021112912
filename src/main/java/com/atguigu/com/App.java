@@ -427,5 +427,6 @@ public class App {
     System.out.println("Begin random walk:");
     randomWalk(graph);
     scanner.close();
+    scanner1.close();
   }
 }
